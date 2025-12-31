@@ -9,10 +9,11 @@
   },
   "keywords": [],
   "author": "",
-  "license":"ISC",
+  "license": "ISC",
   "dependencies": {
     "cors": "2.8.5",
     "express": "^5.2.1",
+    "mongodb": "7.0.0",
     "zod": "4.2.1"
   }
 }
